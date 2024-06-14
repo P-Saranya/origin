@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;restAssured&apos;&#x0D;&#x0A;- Original project: &apos;restAssured&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     2024-06-11T04-33-41_329-jvmRun1.dump&#x0D;&#x0A;     2024-06-11T04-33-41_329-jvmRun1.dumpstream&#x0D;&#x0A;     2024-06-11T04-34-09_590-jvmRun1.dump&#x0D;&#x0A;     2024-06-11T04-34-09_590-jvmRun1.dumpstream" description="Delete elements" element1="target/surefire-reports/2024-06-11T04-34-09_590-jvmRun1.dump" element2="target/surefire-reports/2024-06-11T04-33-41_329-jvmRun1.dump" element3="target/surefire-reports/2024-06-11T04-34-09_590-jvmRun1.dumpstream" element4="target/surefire-reports/2024-06-11T04-33-41_329-jvmRun1.dumpstream" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="4" stamp="1718106177053" subPackages="false" version="1.0"/>
+</session>
